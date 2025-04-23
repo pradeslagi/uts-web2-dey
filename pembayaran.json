@@ -1,0 +1,21 @@
+[
+    {
+      "nama": "Aditya Pratama",
+      "id_pendaftaran": "PMB20250123",
+      "status": "Lunas",
+      "tanggal": "2025-03-09"
+    },
+    {
+      "nama": "Siti Nurhaliza",
+      "id_pendaftaran": "PMB20250145",
+      "status": "Belum Lunas",
+      "tanggal": "-"
+    },
+    {
+      "nama": "Rizky Saputra",
+      "id_pendaftaran": "PMB20250188",
+      "status": "Lunas",
+      "tanggal": "2025-04-12"
+    }
+  ]
+  
